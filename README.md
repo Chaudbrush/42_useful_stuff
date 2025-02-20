@@ -8,7 +8,8 @@ Few links and configs to help me through my journey at 42 School
 * **[Commit to new Repo](##--Commit-to-new-Repo)**
 * **[Detect memory leaks](##--Detect-memory-leaks)**
 * **[Debugging](##-Debugging)**
-* **[Learn more](##-Learn-more)**
+* **[VSCode Debug](#vscode-debug)**
+* **[Learn more](#learn-more)**
 ---
 ## Vim
 ### - Personal Config
