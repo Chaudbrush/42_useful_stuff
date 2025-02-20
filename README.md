@@ -239,9 +239,15 @@ valgrind --leak-check=full \
          - Techniques to explore the state space based on combinatorics</br>
 
 [MIT Intro to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download/)
+
 [MIT Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
 [MIT Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+
 [MIT Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+
 [MIT Math for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/download/)
+
 [Tim Roughgarden Series](https://timroughgarden.org/videos.html)
+
 [Steven Skiena Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA)
