@@ -8,8 +8,9 @@ Few links and configs to help me through my journey at 42 School
 * **[Commit to new Repo](#commit-to-new-repo)**
 * **[Detect memory leaks](#detect-memory-leaks)**
 * **[Debugging](#debugging)**
-* **[VSCode Debug](#vscode-debug)**
+* **[VS Code Debug](#vs-code-debug)**
 * **[Learn more](#learn-more)**
+* **[Algorithm Study List](#algorithm-study-list)**
 ---
 ## Vim
 ### - Personal Config
@@ -199,3 +200,48 @@ valgrind --leak-check=full \
 - [Pony LLDB Cheat Sheet](https://www.ponylang.io/reference/pony-lldb-cheatsheet/)
 - [How to use the GDB debugger - basics](https://www.cs.fsu.edu/~myers/cop3330/debug/debugger.html)
 ---
+## Algorithm Study List
+- Dynamic memory allocation in C (7.5 h)</br>
+         - Data representation in memory</br>
+         - Pointers (or references to objects)</br>
+         - Runtime memory management (dynamic memory allocation)</br>
+- Static and dynamic linear Abstract Data Types (ADT, 9.0 h)</br>
+         - Simple and multiple linked structures</br>
+         - Stack and queues</br>
+         - Strategies for data structure selection</br>
+- Recursion and recursive programs (12.0 h)</br>
+         - The notion of recursion and the divide-and-conquer paradigm</br>
+         - Mathematical recursive functions</br>
+         - Simple recursive procedures</br>
+         - Recursive sorting (mergesort, quicksort, heapsort)</br>
+         - Backtrack and implementation of recursion</br>
+         - Combinatorics principle and their implementation</br>
+- Modularity and modular implementation of algorithms and data structures (4.5 h)</br>
+         - The implementation-interface-client model</br>
+         - Implementation in C of programs with multiple source and header files</br>
+         - Basic use of development and debug tools, like make and gdb</br>
+- Abstract objects, collections of objects, and ADTs (7.5 h)</br>
+         - Classification, definition, and examples</br>
+         - Trees</br>
+         - Binary search trees</br>
+         - Hash tables</br>
+         - Priority queues, heaps, and heap-sort</br>
+- Greedy algorithm (1.5 h)</br>
+- Dynamic programming (1.5 h)</br>
+- Graph theory (7.5 h)</br>
+         - Graph representation</br>
+         - Visits (depth-first and breadth-first search) and their applications</br>
+         - Single-source shortest paths</br>
+         - Minimum spanning trees</br>
+- Problem-solving and practice (8.0 h)</br>
+         - Analysis and definition of strategies for data structures and algorithms</br>
+         - Search and optimization problems</br>
+         - Techniques to explore the state space based on combinatorics</br>
+
+[MIT Intro to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/download/)
+[MIT Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+[MIT Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+[MIT Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)
+[MIT Math for CS](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/download/)
+[Tim Roughgarden Series](https://timroughgarden.org/videos.html)
+[Steven Skiena Youtube](https://www.youtube.com/watch?v=A2bFN3MyNDA)
