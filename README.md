@@ -75,6 +75,10 @@ If feeling rusty: [Vim genius](http://www.vimgenius.com/)
 
 [42-algorithm](https://github.com/dev-jko/42-algorithm)
 
+[awesome-42](https://github.com/leeoocca/awesome-42)
+
+[42-Tests](https://github.com/Kwevan/42-Tests)
+
 ---
 ## Commit to new Repo
 The proper way to push a new project into an existing GitHub repository follows these steps:
