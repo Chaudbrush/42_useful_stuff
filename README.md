@@ -179,7 +179,7 @@ valgrind --leak-check=full \
 
 ```
 ---
-## VSCODE Debug
+## VS Code Debug
 - [gourav.io](https://gourav.io/blog/setup-vscode-to-run-debug-c-cpp-code)
 
 ### VS Code
