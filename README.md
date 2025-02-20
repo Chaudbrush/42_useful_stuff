@@ -3,11 +3,11 @@ Few links and configs to help me through my journey at 42 School
 
 ---
 ### Content Table:
-* **[Vim](##--Vim)**
-* **[Github Links](##--Github-Links)**
-* **[Commit to new Repo](##--Commit-to-new-Repo)**
-* **[Detect memory leaks](##--Detect-memory-leaks)**
-* **[Debugging](##-Debugging)**
+* **[Vim](#vim)**
+* **[Github Links](#github-links)**
+* **[Commit to new Repo](#commit-to-new-repo)**
+* **[Detect memory leaks](#detect-memory-leaks)**
+* **[Debugging](#debugging)**
 * **[VSCode Debug](#vscode-debug)**
 * **[Learn more](#learn-more)**
 ---
